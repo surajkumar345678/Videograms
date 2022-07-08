@@ -42,7 +42,6 @@ video {
 .show-controls {
   width: 100%;
   height: 30%;
-  background: dodgerblue;
   z-index: 2;
   position: absolute;
   bottom: 0;
@@ -60,7 +59,12 @@ video {
   z-index: 5;
   display: flex;
   justify-content: space-between;
-
+  opacity: 0;
+  transition: all 0.3s ease-out 2s;
+}
+.show-controls:hover .controls-container{
+  opacity: 1;
+  transition: all 0.2s ease-out;
 }
 
 
