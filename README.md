@@ -7,3 +7,4 @@ A progress bar, when we hover it, it gets little bigger to jump around in the vi
 In the right side track of the current time of the video as well as the total duration.<br>
 Able to change the playback speed, so we can go half speed, go up to double speed and can go to every speed that is available.<br>
 Toggle the fullscreen, by clicking video will change to fullscreen mode and clicking again to exit full screen as well.<br>
+![Screenshot 2022-07-09 134117](https://user-images.githubusercontent.com/60316890/178097748-e50c7267-b13c-4e90-b79a-54b54968b807.png)
